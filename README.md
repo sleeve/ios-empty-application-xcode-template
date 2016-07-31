@@ -14,6 +14,6 @@ If you just place it in the root `Templates` directory the template will appear 
 If you're curious about doing some more Xcode Template customization these are some great places to start.
 * https://littlebitesofcocoa.com/90-custom-xcode-project-templates
 * https://littlebitesofcocoa.com/89-custom-xcode-file-templates
-* http://www.telerik.com/blogs/how-to-create-custom-project-templates-in-xcode-7
+* https://www.telerik.com/blogs/how-to-create-custom-project-templates-in-xcode-7
 * https://robots.thoughtbot.com/creating-custom-xcode-templates
-* http://stackoverflow.com/questions/37664281/how-to-create-a-project-template
+* https://stackoverflow.com/questions/37664281/how-to-create-a-project-template
