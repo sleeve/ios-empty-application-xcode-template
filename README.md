@@ -8,4 +8,4 @@ The recommended install method is to place `Empty Application.xctemplate` within
 ```
 ~/Library/Developer/Xcode/Templates/Application/
 ```
-If you just place it in the root `Templates` directory the template will appear at the bottom of the Xcode project creation screen. If you stick it in an `Application` directory though it will appear in the same section as all the other project templates.
+If you just place it in the root `Templates` directory the template will appear at the bottom of the Xcode project creation screen. If you create an `Application` subdirectory though and then stick it in there it will appear in the same `Application` section as all the other project templates.
