@@ -45,7 +45,7 @@ return YES;
 						<key>AppDelegate.swift:implementation:methods:applicationdidFinishLaunchingWithOptions:body</key>
 						<string>// Override point for customization after application launch.
 window = UIWindow()
-window?.backgroundColor = UIColor.lightGray()</string>
+window?.backgroundColor = UIColor.lightGray</string>
 						<key>AppDelegate.swift:implementation:methods:applicationdidFinishLaunchingWithOptions:return</key>
 						<string>window?.rootViewController = UIViewController()
 window?.makeKeyAndVisible()
