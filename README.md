@@ -1,7 +1,7 @@
 # iOS Empty Application Xcode Template
-I wanted an empty iOS application template for Xcode 8 that didn't rely on a storyboard. It works nicely when creating small test apps with programatic views or just starting a fresh project without the storyboard cruft.
+I wanted an empty iOS application template for Xcode 9 that didn't rely on a storyboard. It works nicely when creating small test apps with programatic views or just starting a fresh project without the storyboard cruft.
 
-![image](https://cloud.githubusercontent.com/assets/499487/17272907/5a2fbb74-5658-11e6-9ee4-ed1775161158.png)
+![xcode_empty_application](https://user-images.githubusercontent.com/499487/27750132-558f882a-5d8b-11e7-80e5-2a12bd7acf84.png)
 
 ## How do I install it?
 The recommended install method is to place `Empty Application.xctemplate` within:
