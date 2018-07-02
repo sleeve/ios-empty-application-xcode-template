@@ -1,8 +1,8 @@
 # iOS Empty Application Xcode Template
 I wanted an empty iOS application template for Xcode 10 that didn't rely on a storyboard. It works nicely when creating small test apps with programatic views or just starting a fresh project without the storyboard cruft.
 
-![xcode_empty_application](https://user-images.githubusercontent.com/499487/42120654-ef096662-7bd3-11e8-873c-a99146080274.png)
-![sim_empty_application](https://user-images.githubusercontent.com/499487/41989611-c205045e-79f4-11e8-9b02-7b5a9b0154b4.png)
+![xcode_empty_application](https://user-images.githubusercontent.com/499487/42141405-d9fa2b4a-7d5d-11e8-8568-a9f9c3eca2d2.png)
+![sim_empty_application](https://user-images.githubusercontent.com/499487/42141444-26f3a200-7d5e-11e8-875d-b7cfeafabfe5.png)
 
 ## How do I install it?
 The recommended install method is to place `Empty Application.xctemplate` within:
