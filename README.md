@@ -1,6 +1,6 @@
 # iOS Empty Application Xcode Template
 
-![Xcode version](https://img.shields.io/badge/Xcode-10%20beta%203-brightgreen.svg)
+![Xcode version](https://img.shields.io/badge/Xcode-10%20beta%203-blue.svg)
 
 I wanted an empty iOS application template for Xcode 10 that didn't rely on a storyboard. It works nicely when creating small test apps with programatic views or just starting a fresh project without the storyboard cruft.
 
