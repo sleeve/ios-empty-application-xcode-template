@@ -4,7 +4,7 @@ This used to be a default template within earlier Xcode versions but Apple remov
 
 This template works on the latest Xcode 11 for both Objective-C and Swift and doesn't rely on a storyboard. It also features a cleaned up icon that looks great next to the other default template icons. It works nicely when creating small test apps with programmatic views or just starting a fresh project without the storyboard cruft.
 
-![xcode_empty_application](https://user-images.githubusercontent.com/499487/42141405-d9fa2b4a-7d5d-11e8-8568-a9f9c3eca2d2.png)
+![empty_application_xcode11](https://user-images.githubusercontent.com/499487/67164258-55331600-f32d-11e9-91e8-69aa3428a40e.png)
 ![sim_empty_application](https://user-images.githubusercontent.com/499487/42141444-26f3a200-7d5e-11e8-875d-b7cfeafabfe5.png)
 
 ## Installation
