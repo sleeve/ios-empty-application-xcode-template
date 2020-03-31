@@ -1,10 +1,11 @@
 # iOS Empty Application Xcode Template
 
-This used to be a default template within earlier Xcode versions but Apple removed it in Xcode 6. Unfortunately some older iOS development books and tutorials were written with this template as the starting point.
+This used to be a default template included with early versions of Xcode but it was removed in Xcode 6 and is still missing in modern versions of Xcode. Unfortunately some older iOS development books, projects and tutorials were written specifically using this empty template as the starting point. Most of the other versions floating around of this template are just the raw template file taken from Xcode 5. This old template has some issues running on more recent versions of Xcode though. This updated template includes a few improvements that make it actually functional.
 
-This template works on the latest Xcode 11 for both Objective-C and Swift and doesn't rely on a storyboard. It also features a cleaned up icon that looks great next to the other default template icons. It works nicely when creating small test apps with programmatic views or just starting a fresh project without the storyboard cruft.
+It works with the latest Xcode 11 for both Objective-C and Swift 5.x and doesn't rely on a storyboard. It also features a cleaned up modern icon that matches the latest design language of the other templates. It works nicely when creating small test apps with programmatic views or just starting a fresh project without the storyboard cruft.
 
-![empty_application_xcode11](https://user-images.githubusercontent.com/499487/67164258-55331600-f32d-11e9-91e8-69aa3428a40e.png)
+![empty_template-xcode_11 4](https://user-images.githubusercontent.com/499487/78055191-022ba900-7338-11ea-8336-e0e266e3991c.png)
+
 ![sim_empty_application_xcode11](https://user-images.githubusercontent.com/499487/67164330-64ff2a00-f32e-11e9-8171-67ed6727b106.png)
 
 ## Installation
@@ -13,6 +14,9 @@ The recommended install method is to place `Empty Application.xctemplate` within
 ~/Library/Developer/Xcode/Templates/Application/
 ```
 If you just place it in the root `Templates` directory the template will appear at the bottom of the Xcode project creation screen. If you create an `Application` subdirectory though and then stick it in there it will appear in the same `Application` section as all the other project templates.
+
+## Color
+I changed the default window background from White to Cyan to make it easier to see when the AppDelegate loads. The Launch Screen image/storyboard default color is white so it was impossible to see when the AppDelegate actually loaded when the background color was white. Feel free to change it to whatever color you want. 🎨 
 
 ## Related links
 If you're curious about doing some more Xcode Template customization these are some great places to start.
